@@ -1,0 +1,5 @@
+autoloaders:
+  Sxmlsv: %module%/src
+commands:
+  customCommands:
+    - Sxmlsv\Magento\ScanCommand
